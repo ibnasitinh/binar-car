@@ -14,7 +14,7 @@ class Banner extends Component {
           <div className='col-md-6 img-banner'>
             <img src='/images/img_car.png' width="100%" alt='car'></img>
           </div>
-        </div>
+        </div> 
       </div>
     )
   }
