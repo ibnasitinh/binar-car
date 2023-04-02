@@ -1,0 +1,13 @@
+.container-list {
+    padding-top: 50px;
+}
+
+.col-card-list {
+    padding-top: 20px;
+}
+
+.btn-flat {
+    background-color: #5CB85F !important;
+    border-radius: 1px !important; 
+    color: white !important;
+}

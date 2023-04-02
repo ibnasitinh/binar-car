@@ -1,0 +1,54 @@
+/* .service-description ul {
+    list-style-image: url('../../public/images/icon_check.svg');
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+} */
+
+.service-description li {
+    /* display: block; */
+    /* color: white; */
+    /* text-align: center; */
+    padding: 0px;
+    padding-top: 0px;
+    text-decoration: none;
+}
+
+/* .list-service {
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;    */
+/* } */
+
+.service-description ul {
+    padding: 0px;
+}
+
+.service-description ul li {
+    background: url('../../public/images/icon_check.svg') no-repeat left center;
+    padding: 16px 20px 15px 40px;
+    list-style: none;
+    margin: 0;
+    vertical-align: middle;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.why-us-icon {
+    padding-bottom: 16px;
+}
+
+.card-subtitle {
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}

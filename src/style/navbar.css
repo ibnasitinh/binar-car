@@ -1,0 +1,32 @@
+.container-navbar {
+    background-color: #F1F3FF;
+    padding-left: 136px;
+    padding-right: 249px;
+}
+
+.nav-ul ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+  
+.nav-ul li {
+    float: right;
+}
+
+.nav-ul li a {
+    display: block;
+    color: #000000;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+  
+.nav-ul li a:hover {
+    background-color: #F1F3FF;
+}
+
+.nav-logo {
+    padding-top: 25px;
+}

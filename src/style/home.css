@@ -1,0 +1,21 @@
+.text-banner {
+    padding-left: 136px;
+    padding-top: 177px;
+}
+
+.img-banner {
+    padding-top: 97px;
+}
+
+.btn_banner {
+    background: green;
+    border: 0;
+    padding: 12px 28px;
+    color: white;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.banner {
+    background: #F1F3FF;
+}

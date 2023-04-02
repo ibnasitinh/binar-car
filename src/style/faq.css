@@ -1,0 +1,11 @@
+.container-faq {
+    padding-top: 60px;
+}
+
+.accordion-button {
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+}
