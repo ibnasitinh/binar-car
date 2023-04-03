@@ -10,23 +10,20 @@ const Navbar = () => {
                     <img className='nav-logo' src="/images/logo.png" alt='logo' />
                 </div>
                 <div className='col-md-8 nav-ul'>
-                    <ul>
-                        <li>
-                            <Link to="/">Home</Link>
-                        </li>
-                        <li>
-                            <Link to="/">Our Services</Link>
-                        </li>
-                        <li>
-                            <Link to="/">Why Us</Link>
-                        </li>
-                        <li>
-                            <Link to="">Testimonial</Link>
-                        </li>
-                        <li>
-                            <Link to="/">FAQ</Link>
-                        </li>
-                    </ul>
+                      <ul class="nav justify-content-end">
+                          <li>
+                              <Link to="/">Our Services</Link>
+                          </li>
+                          <li>
+                              <Link to="/">Why Us</Link>
+                          </li>
+                          <li>
+                              <Link to="">Testimonial</Link>
+                          </li>
+                          <li>
+                              <Link to="/">FAQ</Link>
+                          </li>
+                      </ul>
                 </div>
             </div>
         </nav>
