@@ -24,9 +24,9 @@ export default function Filter() {
           </label>
           <select id="inputState" className="form-select">
             <option value="">Masukan Kapasitas Mobil</option>
-            <option value="small">small</option>
-            <option value="medium">medium</option>
-            <option value="large">large</option>
+            <option value="small">2 - 4 orang</option>
+            <option value="medium">4 - 6 orang</option>
+            <option value="large">6 - 8 0rang</option>
           </select>
         </div>
         <div className="grid-input">
